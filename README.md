@@ -5,7 +5,7 @@
 ## Project Description
 This repository is for the team project **MSCA 37014 Python for Analytics**.
 * Instructor: `Shahbaz Chaudhary`
-* Team: MSCA Data Scientists 
+* Authors: 
   * `Zoila Joyo Calderon`
   * `Lauren Sample`
   * `Ruobing Xue`
