@@ -1,4 +1,4 @@
-# Reddit Churn Analysis
+# Reddit Churn
 <img src='https://www.adweek.com/wp-content/uploads/2019/10/Reddit-Logo-Horizontal.png.webp' width='359' height='200'>
 
 ## Data Description
